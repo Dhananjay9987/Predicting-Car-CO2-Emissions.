@@ -49,11 +49,11 @@
 
 # How to Run
 
-  i. Clone/download this project.
-  ii. Install dependencies:
+  * Clone/download this project.
+  *  Install dependencies:
      * pip install pandas matplotlib seaborn scikit-learn
-  iii. Place CO2_emissions.csv in the project folder.
-  iv. Run the script:
+  * Place CO2_emissions.csv in the project folder.
+  *  Run the script:
      * python co2_regression.py
 
 # Applications
