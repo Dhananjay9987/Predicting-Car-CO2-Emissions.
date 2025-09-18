@@ -54,7 +54,7 @@
      * pip install pandas matplotlib seaborn scikit-learn
   * Place CO2_emissions.csv in the project folder.
   *  Run the script:
-     * python co2_regression.py
+     * python main.py
 
 # Applications
 
